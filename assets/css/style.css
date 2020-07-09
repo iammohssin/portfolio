@@ -214,7 +214,7 @@ html, body {
 
 .hero .col-md-6:first-child {
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 78px;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
