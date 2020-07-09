@@ -200,8 +200,8 @@ html, body {
 
 /* HERO
 ================================================== */
-.hero { 
-    background: url(../img/hero.jpg) no-repeat center / cover; 
+.hero {
+    background: url(../img/zzzz.jpg) no-repeat center / cover;
     height: 100%;
     width: 100%;
     min-height: 700px;
@@ -228,7 +228,7 @@ html, body {
     position: absolute;
     right: 0;
     bottom: 120px;
-    top: 225px;
+    top: 100px
 }
 
 .hero h1 {
